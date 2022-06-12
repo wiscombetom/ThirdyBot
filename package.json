@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/wiscombetom/ThirdyBot/issues"
   },
-  "homepage": "https://github.com/wiscombetom/ThirdyBot#readme"
+  "homepage": "https://github.com/wiscombetom/ThirdyBot#readme",
+  "dependencies": {
+    "@sapphire/framework": "^2.5.0",
+    "discord.js": "^13.8.0"
+  }
 }
