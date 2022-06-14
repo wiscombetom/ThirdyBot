@@ -1,2 +1,4 @@
 package-lock.json
+src/config.json
 node_modules/
+prod/
